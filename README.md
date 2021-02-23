@@ -15,3 +15,5 @@ List of Practicals
 10. Study of MapReduce Application to process weather report dataset.
 11. Design and development of a Distributed application using EJB.
 12. Case Study Google as a Distributed system.
+<br>
+Other final reports - https://drive.google.com/drive/folders/1LjfM7ks9xHybx3xFkn2OAkWfG_z51TVG?usp=sharing
